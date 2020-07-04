@@ -1,0 +1,4 @@
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=UD3c.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=UD3c.PrjPCB
+Record=DiagramHierarchy|SourceDocument=MultiBoardSchematic1.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=UD3c bootstrap.PrjPCB
+Record=SubProject|SourceDocument=MultiBoardSchematic1.MbsDoc|ProjectPath=UD3c bootstrap.PrjPCB
